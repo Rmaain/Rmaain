@@ -5,7 +5,7 @@
 -->
 Exploring new frontiers in computing, neuroscience, genetics, and art 🧠
 
-- 📫 How to reach me: intornanow@gmail.com
+* 📫 How to reach me: intornanow@gmail.com
   
 
 
